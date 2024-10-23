@@ -1,16 +1,15 @@
 # Ecommerce-Website
 
 cera is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
-![page9](https://github.com/user-attachments/assets/205ba796-6273-4f77-a13c-4a45a2ac74ff)
-![page8](https://github.com/user-attachments/assets/fd4b96c9-c555-400c-aa51-40a4392a5c7b)
-![page7](https://github.com/user-attachments/assets/84d4406b-a26d-44bf-bf47-3dfb02af06a2)
-![page6](https://github.com/user-attachments/assets/535fdcab-2374-4ff9-bc5e-0362a0a0d631)
-![page5](https://github.com/user-attachments/assets/cf7cf6d7-e80d-45cb-a3c5-7c5ee024b8d6)
-![page4](https://github.com/user-attachments/assets/66ed7d3c-b74c-4fb8-8906-fc72071d7b80)
-![page3](https://github.com/user-attachments/assets/09dfa9ad-2ce1-426d-b4aa-cfbb9a6bc76f)
-![page2](https://github.com/user-attachments/assets/bf6231dc-24cf-4701-b1ed-6d35b6ba5d9b)
-![page1](https://github.com/user-attachments/assets/386b35fb-fc68-48de-88b2-e92e1e29fedf)
-
+![page9 ](https://github.com/user-attachments/assets/960e976a-d0b7-4805-8b1a-a21bd7dadc5e)
+![page8](https://github.com/user-attachments/assets/9b92b796-e764-481a-a396-e1697998328c)
+![page7 ](https://github.com/user-attachments/assets/e7bd3c1e-c159-46ac-974c-d376a858d3b0)
+![page6 ](https://github.com/user-attachments/assets/bcfd1971-ba21-4a82-bfe8-a7d155be195b)
+![page5 ](https://github.com/user-attachments/assets/5e07ce93-12c0-473c-a0d4-3b63a627bb40)
+![page4 ](https://github.com/user-attachments/assets/775fecc7-c2bb-40e7-a32e-4f6ae85fb8fe)
+![page3 ](https://github.com/user-attachments/assets/668f0fd6-3b78-4327-9a9c-19d1ac59057f)
+![page2 ](https://github.com/user-attachments/assets/c62e71c2-ad34-46a0-a78c-dc02ae059eb4)
+![page1 ](https://github.com/user-attachments/assets/4a91d8c2-e973-4227-84cf-a79855804e7e)
 
 
 
